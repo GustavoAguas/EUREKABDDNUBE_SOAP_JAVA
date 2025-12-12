@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/main"
+    android:layout_height="match_parent"
+    android:background="@drawable/image"
+    tools:context="vista.MenuActivity" >
+
+    <!-- Contenedor transparente -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="340dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="25dp"
+            app:cardCornerRadius="16dp"
+            app:cardElevation="8dp"
+            android:background="@android:color/white"
+            android:alpha="0.9"> <!-- Fondo blanco con transparencia -->
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="24dp">
+
+                <!-- Título -->
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Menú de Opciones"
+                    android:textSize="24sp"
+                    android:textStyle="bold"
+                    android:gravity="center"
+                    android:layout_marginBottom="16dp"
+                    android:textColor="@android:color/black" />
+                <Button
+                    android:id="@+id/btnDeposito"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Realizar Operación"
+                    android:textSize="18sp"
+                    android:backgroundTint="@color/main_color"
+                    android:textColor="@android:color/white"
+                    />
+                <Button
+                    android:id="@+id/btnTransferir"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Realizar Transferencia"
+                    android:textSize="18sp"
+                    android:textColor="@android:color/white"
+                    android:backgroundTint="@color/main_color" />
+                <Button
+                    android:id="@+id/btnConsultar"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Consultar Movimientos"
+                    android:textSize="18sp"
+                    android:textColor="@android:color/white"
+                    android:backgroundTint="@color/main_color" />
+
+                <Button
+                    android:id="@+id/btnSalir"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Salir"
+                    android:textSize="18sp"
+                    android:textColor="@android:color/white"
+                    android:backgroundTint="@color/main_color" />
+
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+    </LinearLayout>
+</FrameLayout>

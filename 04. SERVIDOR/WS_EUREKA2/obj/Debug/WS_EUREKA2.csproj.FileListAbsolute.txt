@@ -1,0 +1,7 @@
+C:\Users\jspau\Documents\Eurekabank\TI2.2 SOAP_DOTNET_CONBDD_GR02\01. SERVIDOR\WS_EUREKA2\bin\Debug\WS_EUREKA2.dll.config
+C:\Users\jspau\Documents\Eurekabank\TI2.2 SOAP_DOTNET_CONBDD_GR02\01. SERVIDOR\WS_EUREKA2\bin\Debug\WS_EUREKA2.dll
+C:\Users\jspau\Documents\Eurekabank\TI2.2 SOAP_DOTNET_CONBDD_GR02\01. SERVIDOR\WS_EUREKA2\bin\Debug\WS_EUREKA2.pdb
+C:\Users\jspau\Documents\Eurekabank\TI2.2 SOAP_DOTNET_CONBDD_GR02\01. SERVIDOR\WS_EUREKA2\obj\Debug\WS_EUREKA2.csproj.AssemblyReference.cache
+C:\Users\jspau\Documents\Eurekabank\TI2.2 SOAP_DOTNET_CONBDD_GR02\01. SERVIDOR\WS_EUREKA2\obj\Debug\WS_EUREKA2.csproj.CoreCompileInputs.cache
+C:\Users\jspau\Documents\Eurekabank\TI2.2 SOAP_DOTNET_CONBDD_GR02\01. SERVIDOR\WS_EUREKA2\obj\Debug\WS_EUREKA2.dll
+C:\Users\jspau\Documents\Eurekabank\TI2.2 SOAP_DOTNET_CONBDD_GR02\01. SERVIDOR\WS_EUREKA2\obj\Debug\WS_EUREKA2.pdb

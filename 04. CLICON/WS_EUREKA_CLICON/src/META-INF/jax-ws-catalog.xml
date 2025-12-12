@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/WS_EUREKA/WSEureka?wsdl" uri="wsdl/localhost_8080/WS_EUREKA/WSEureka.wsdl"/>
+    <system systemId="http://localhost:8080/WS_EUREKA/WSEureka?xsd=1" uri="wsdl/localhost_8080/WS_EUREKA/WSEureka.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/WS_EUREKANUBE_SOAP/WSEureka?wsdl" uri="wsdl/localhost_8080/WS_EUREKANUBE_SOAP/WSEureka.wsdl"/>
+    <system systemId="http://localhost:8080/WS_EUREKANUBE_SOAP/WSEureka?xsd=1" uri="wsdl/localhost_8080/WS_EUREKANUBE_SOAP/WSEureka.xsd_1.xsd"/>
+    <system systemId="http://localhost:8085/WS_EUREKANUBE_SOAP/WSEureka?WSDL" uri="wsdl/localhost_8085/WS_EUREKANUBE_SOAP/WSEureka.wsdl"/>
+    <system systemId="http://localhost:8085/WS_EUREKANUBE_SOAP/WSEureka?xsd=1" uri="wsdl/localhost_8085/WS_EUREKANUBE_SOAP/WSEureka.xsd_1.xsd"/>
+    <system systemId="http://192.168.100.226:8080/WS_EUREKANUBE_SOAP/WSEureka?WSDL" uri="wsdl/192.168.100.226_8080/WS_EUREKANUBE_SOAP/WSEureka.wsdl"/>
+    <system systemId="http://192.168.100.226:8080/WS_EUREKANUBE_SOAP/WSEureka?xsd=1" uri="wsdl/192.168.100.226_8080/WS_EUREKANUBE_SOAP/WSEureka.xsd_1.xsd"/>
+    <system systemId="http://10.40.25.128:8080/WS_EUREKANUBE_SOAP/WSEureka?WSDL" uri="wsdl/10.40.25.128_8080/WS_EUREKANUBE_SOAP/WSEureka.wsdl"/>
+    <system systemId="http://10.40.25.128:8080/WS_EUREKANUBE_SOAP/WSEureka?xsd=1" uri="wsdl/10.40.25.128_8080/WS_EUREKANUBE_SOAP/WSEureka.xsd_1.xsd"/>
+</catalog>

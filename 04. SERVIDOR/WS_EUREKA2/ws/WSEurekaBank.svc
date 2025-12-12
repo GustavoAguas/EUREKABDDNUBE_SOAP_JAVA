@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WS_EUREKA2.ws.WSEurekaBank" %>
